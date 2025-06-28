@@ -12,15 +12,15 @@ Built using FastAPI, Streamlit, Google Calendar API, LangGraph, and date parsing
 
 ##  Features
 
--  Conversational flow powered by LangGraph
-- Google Calendar integration (via OAuth)
--  Understands flexible time formats like:
+- Conversational flow powered by LangGraph  
+- Google Calendar integration (via OAuth)  
+- Understands flexible time formats like:
   - "tomorrow at 5pm"
   - "12/07/2025 at 10 AM"
   - "in 2 hours"
--  Checks availability before booking
--  Confirms meeting with clickable calendar link
--  Remembers intent and follows up
+- Checks availability before booking  
+- Confirms meeting with clickable calendar link  
+- Remembers intent and follows up  
 
 ---
 
@@ -39,12 +39,3 @@ Built using FastAPI, Streamlit, Google Calendar API, LangGraph, and date parsing
 
 ##  Folder Structure
 
-"# Tailor_Talk" 
-"# Tailor_Talk" 
-"# Tailor_Talk" 
-"# Tailor_Talk_" 
-"# Tailor Talk_" 
-"# Tailor_Talk_" 
-"# Tailor_Talk_" 
-"# Tailor_Talk_" 
-"# Tailor_Talk_" 
