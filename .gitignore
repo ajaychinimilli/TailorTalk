@@ -1,3 +1,6 @@
 venv/ 
 __pycache__/ 
 *.pyc 
+# Don't track credentials or tokens
+app/credentials.json
+app/token.json
