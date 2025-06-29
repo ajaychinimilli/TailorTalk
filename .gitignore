@@ -1,3 +1,4 @@
 # Ignore secret files
 app/credentials.json
 app/token.json
+venv/
